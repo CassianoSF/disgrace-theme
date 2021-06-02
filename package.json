@@ -1,0 +1,23 @@
+{
+    "publisher": "CassianoSF",
+    "name": "disgrace-theme",
+    "displayName": "Disgrace Theme",
+    "description": "Disgrace Theme",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Disgrace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Disgrace-color-theme.json"
+            }
+        ]
+    }
+}
