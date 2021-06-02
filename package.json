@@ -5,7 +5,7 @@
     "displayName": "Disgrace Theme",
     "description": "Disgrace Theme",
     "version": "0.0.1",
-    "icon": "https://raw.githubusercontent.com/CassianoSF/disgrace-theme/main/icon.png",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.56.0"
     },
