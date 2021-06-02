@@ -1,10 +1,11 @@
 {
     "publisher": "CassianoSF",
     "name": "disgrace-theme",
+    "repository": "https://github.com/CassianoSF/disgrace-theme",
     "displayName": "Disgrace Theme",
     "description": "Disgrace Theme",
     "version": "0.0.1",
-    "icon": "icon.png",
+    "icon": "https://raw.githubusercontent.com/CassianoSF/disgrace-theme/main/icon.png",
     "engines": {
         "vscode": "^1.56.0"
     },
